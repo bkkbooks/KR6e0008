@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0008/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴經義記卷第一
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2756.xml
+    old_id: T85n2756
+hash: sha256:ee18fb1a104070a230bd2b6f0bb18fd95def11dc3ee18bb74e46b07ca3b5d014

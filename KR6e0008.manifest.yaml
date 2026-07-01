@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6e0008/v1
+canonical_location: https://kanripo.org/bkk/KR6e0008/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 華嚴經義記卷第一
+  identifiers:
+    alt_id:
+    - T85n2756
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2756.xml
+    old_id: T85n2756
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0008_000.yaml, hash: 'sha256:ee18fb1a104070a230bd2b6f0bb18fd95def11dc3ee18bb74e46b07ca3b5d014'}
+  - {seq: 1, filename: KR6e0008_001.yaml, hash: 'sha256:b1ef68dca210d024f4dc270b146a3003abd461f2082bd79ca899163cc4507808'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6e0008_001.markers.yaml, hash: 'sha256:9621664d5452dfeb96568afd3c3faa86bc4ee4435be4e89a0ec01932555343d0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0008_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 774
+  label: 花嚴經義記卷第一
+  type: juan
+  level: 1
+hash: sha256:de41b8c9545c014ca50a57de1ed4487204291b3da7277e10db20f0fd9ced19f0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: T
