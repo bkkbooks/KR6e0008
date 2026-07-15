@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6e0008/v1
 canonical_location: https://kanripo.org/bkk/KR6e0008/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 華嚴經義記卷第一
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6e0008_000.yaml, hash: 'sha256:ee18fb1a104070a230bd2b6f0bb18fd95def11dc3ee18bb74e46b07ca3b5d014'}
-  - {seq: 1, filename: KR6e0008_001.yaml, hash: 'sha256:3d40638d58de6698a69ddde57d03ff5795945fde5e0ef6d8e9f924885c93e21e'}
+  - {seq: 1, filename: KR6e0008_001.yaml, hash: 'sha256:262250f24972b3c5d4bd6d33f18396c09d02dbac1707c7989350d8230f3d9899'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6e0008_000.markers.yaml, hash: 'sha256:14e94fa18703cd2ebd950a4619e6e0ef48805c821f9d45d0d98f5033bf15daf9'}
-  - {seq: 1, role: markers, filename: assets/KR6e0008_001.markers.yaml, hash: 'sha256:bb85364d023c9e420ac21774d4980913c0a320366ef4fe50b0f80daba89d6a51'}
+  - {seq: 1, role: markers, filename: assets/KR6e0008_001.markers.yaml, hash: 'sha256:b8bd69005302b49aaf0c3ea4167e57d045996f363fe21472fee53cfcca290b62'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 花嚴經義記卷第一
   type: juan
   level: 1
-hash: sha256:3289087d3ec322bcb26f6dd90c5d8b44396a1968520ee68ce4cd9c7328983245
+hash: sha256:dd020e2dd6d16b10915eeb189be17833d4426df92959fe56918d2f1be30f9148
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
